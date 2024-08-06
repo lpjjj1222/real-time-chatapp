@@ -1,4 +1,4 @@
-# A Real Time Chat App 
+# A Realtime Chat App 
 ![Screenshot for app](screenshot.png)
 Some Features:
 
@@ -28,4 +28,3 @@ npm run build
 ```shell
 npm start
 ```
-# Realtime-Chat
