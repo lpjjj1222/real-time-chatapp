@@ -1,5 +1,5 @@
 # A Real Time Chat App 
-
+![Screenshot for app](screenshot.png)
 Some Features:
 
 -   🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
