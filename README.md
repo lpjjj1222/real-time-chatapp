@@ -1,4 +1,4 @@
-# A Realtime Chat App 
+# A Real-time Chat App 
 ![Screenshot for app](screenshot.png)
 Some Features:
 
